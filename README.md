@@ -4,11 +4,11 @@
 
 **A fast, good-looking YouTube Music player for Windows — with an in-game overlay.**
 
-[![Latest release](https://img.shields.io/github/v/release/skandalbrawl-ship-it/sonvela?label=download&color=ff2d46)](https://github.com/skandalbrawl-ship-it/sonvela/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/skandalbrawl-ship-it/sonvela/total?color=555)](https://github.com/skandalbrawl-ship-it/sonvela/releases)
+[![Latest release](https://img.shields.io/github/v/release/Lean302302/sonvela?label=download&color=ff2d46)](https://github.com/Lean302302/sonvela/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Lean302302/sonvela/total?color=555)](https://github.com/Lean302302/sonvela/releases)
 ![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4)
 
-[**⬇ Download for Windows**](https://github.com/skandalbrawl-ship-it/sonvela/releases/latest) · [Українською](README.uk.md)
+[**⬇ Download for Windows**](https://github.com/Lean302302/sonvela/releases/latest) · [Українською](README.uk.md)
 
 ![Sonvela home screen](docs/home.png)
 
@@ -37,7 +37,7 @@
 
 ## Install
 
-1. Download **`Sonvela-Setup-<version>.exe`** from the [latest release](https://github.com/skandalbrawl-ship-it/sonvela/releases/latest).
+1. Download **`Sonvela-Setup-<version>.exe`** from the [latest release](https://github.com/Lean302302/sonvela/releases/latest).
 2. Run it. Windows may show *“Windows protected your PC”* because the installer is not code-signed yet — click **More info → Run anyway**.
 3. That's it. Sonvela updates itself from now on.
 
@@ -76,7 +76,7 @@ All global shortcuts can be changed in **Settings → Keyboard**.
 
 **Where does the music come from?** From YouTube Music, played through YouTube's official embedded player.
 
-**Found a bug or have an idea?** [Open an issue](https://github.com/skandalbrawl-ship-it/sonvela/issues) — feedback is very welcome.
+**Found a bug or have an idea?** [Open an issue](https://github.com/Lean302302/sonvela/issues) — feedback is very welcome.
 
 ---
 

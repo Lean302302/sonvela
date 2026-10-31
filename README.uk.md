@@ -4,10 +4,10 @@
 
 **Швидкий і гарний плеєр YouTube Music для Windows з ігровим оверлеєм.**
 
-[![Остання версія](https://img.shields.io/github/v/release/skandalbrawl-ship-it/sonvela?label=завантажити&color=ff2d46)](https://github.com/skandalbrawl-ship-it/sonvela/releases/latest)
+[![Остання версія](https://img.shields.io/github/v/release/Lean302302/sonvela?label=завантажити&color=ff2d46)](https://github.com/Lean302302/sonvela/releases/latest)
 ![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4)
 
-[**⬇ Завантажити для Windows**](https://github.com/skandalbrawl-ship-it/sonvela/releases/latest) · [English](README.md)
+[**⬇ Завантажити для Windows**](https://github.com/Lean302302/sonvela/releases/latest) · [English](README.md)
 
 ![Головна сторінка Sonvela](docs/home.png)
 
@@ -40,7 +40,7 @@
 
 ## Встановлення
 
-1. Завантажте **`Sonvela-Setup-<версія>.exe`** з [останнього релізу](https://github.com/skandalbrawl-ship-it/sonvela/releases/latest).
+1. Завантажте **`Sonvela-Setup-<версія>.exe`** з [останнього релізу](https://github.com/Lean302302/sonvela/releases/latest).
 2. Запустіть його. Windows може показати «Windows захистила ваш ПК», бо інсталятор поки не має цифрового підпису.
    Натисніть **Докладніше → Усе одно запустити**.
 3. Готово. Далі Sonvela оновлюється сама.
@@ -74,7 +74,7 @@
 
 **Звідки музика?** З YouTube Music, через офіційний вбудований плеєр YouTube.
 
-**Знайшли баг або маєте ідею?** [Створіть issue](https://github.com/skandalbrawl-ship-it/sonvela/issues).
+**Знайшли баг або маєте ідею?** [Створіть issue](https://github.com/Lean302302/sonvela/issues).
 
 ---
 
