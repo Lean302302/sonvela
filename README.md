@@ -51,7 +51,7 @@ No account is needed to search and play. Signing in with Google is optional and 
 
 **Library** — liked songs, your own playlists, history and mixes, stored locally on your PC.
 
-**Privacy** — your library stays on your computer. Sonvela never sees your Google password: sign-in happens in your browser, and only a read-only token is kept, encrypted with Windows DPAPI.
+**Privacy** — your library stays on your computer ([privacy policy](PRIVACY.md)). Sonvela never sees your Google password: sign-in happens in your browser, and only a read-only token is kept, encrypted with Windows DPAPI.
 
 ### Keyboard shortcuts
 
