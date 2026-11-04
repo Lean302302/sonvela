@@ -19,6 +19,7 @@
 - **In-game overlay.** Press <kbd>Alt</kbd> + <kbd>`</kbd> in a game and a small player appears on top: skip, pause, change the volume, pick the next song — without alt-tabbing. Nothing is injected into the game, so it is safe with anti-cheat.
 - **Music picked for you.** Sonvela learns what you like from your history and likes, and *Discover mode* keeps the queue going with similar songs. Artists you keep skipping stop coming back. All of it is calculated on your computer.
 - **Synced lyrics.** The current line lights up as the song plays; click a line to jump to it.
+- **Ambient light.** A soft glow around the music video follows the colors of the scene. You can turn it off in Settings.
 - **Discord status.** Show “Listening to …” with the cover on your Discord profile.
 - **Bring your playlists.** Import from Spotify (CSV via Exportify), Apple Music / iTunes exports, or a plain text list.
 - **Light on resources.** An optimization mode cuts memory use and unloads the interface while the app sits in the tray.
